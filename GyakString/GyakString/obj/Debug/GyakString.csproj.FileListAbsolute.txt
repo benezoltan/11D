@@ -1,0 +1,11 @@
+C:\Users\benez\source\repos\GyakString\GyakString\bin\Debug\GyakString.exe.config
+C:\Users\benez\source\repos\GyakString\GyakString\bin\Debug\GyakString.exe
+C:\Users\benez\source\repos\GyakString\GyakString\bin\Debug\GyakString.pdb
+C:\Users\benez\source\repos\GyakString\GyakString\obj\Debug\GyakString.csproj.AssemblyReference.cache
+C:\Users\benez\source\repos\GyakString\GyakString\obj\Debug\GyakString.csproj.SuggestedBindingRedirects.cache
+C:\Users\benez\source\repos\GyakString\GyakString\obj\Debug\GyakString.Form1.resources
+C:\Users\benez\source\repos\GyakString\GyakString\obj\Debug\GyakString.Properties.Resources.resources
+C:\Users\benez\source\repos\GyakString\GyakString\obj\Debug\GyakString.csproj.GenerateResource.cache
+C:\Users\benez\source\repos\GyakString\GyakString\obj\Debug\GyakString.csproj.CoreCompileInputs.cache
+C:\Users\benez\source\repos\GyakString\GyakString\obj\Debug\GyakString.exe
+C:\Users\benez\source\repos\GyakString\GyakString\obj\Debug\GyakString.pdb
