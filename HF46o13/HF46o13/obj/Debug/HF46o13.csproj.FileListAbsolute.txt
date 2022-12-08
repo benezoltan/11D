@@ -1,0 +1,11 @@
+C:\Users\benez\source\repos\HF46o13\HF46o13\bin\Debug\HF46o13.exe.config
+C:\Users\benez\source\repos\HF46o13\HF46o13\bin\Debug\HF46o13.exe
+C:\Users\benez\source\repos\HF46o13\HF46o13\bin\Debug\HF46o13.pdb
+C:\Users\benez\source\repos\HF46o13\HF46o13\obj\Debug\HF46o13.csproj.AssemblyReference.cache
+C:\Users\benez\source\repos\HF46o13\HF46o13\obj\Debug\HF46o13.csproj.SuggestedBindingRedirects.cache
+C:\Users\benez\source\repos\HF46o13\HF46o13\obj\Debug\HF46o13.Form1.resources
+C:\Users\benez\source\repos\HF46o13\HF46o13\obj\Debug\HF46o13.Properties.Resources.resources
+C:\Users\benez\source\repos\HF46o13\HF46o13\obj\Debug\HF46o13.csproj.GenerateResource.cache
+C:\Users\benez\source\repos\HF46o13\HF46o13\obj\Debug\HF46o13.csproj.CoreCompileInputs.cache
+C:\Users\benez\source\repos\HF46o13\HF46o13\obj\Debug\HF46o13.exe
+C:\Users\benez\source\repos\HF46o13\HF46o13\obj\Debug\HF46o13.pdb
