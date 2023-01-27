@@ -1,0 +1,11 @@
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\bin\Debug\tombgyakorlas.exe.config
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\bin\Debug\tombgyakorlas.exe
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\bin\Debug\tombgyakorlas.pdb
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\obj\Debug\tombgyakorlas.csproj.AssemblyReference.cache
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\obj\Debug\tombgyakorlas.csproj.SuggestedBindingRedirects.cache
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\obj\Debug\tombgyakorlas.Form1.resources
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\obj\Debug\tombgyakorlas.Properties.Resources.resources
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\obj\Debug\tombgyakorlas.csproj.GenerateResource.cache
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\obj\Debug\tombgyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\obj\Debug\tombgyakorlas.exe
+C:\Users\benez\source\repos\tombgyakorlas\tombgyakorlas\obj\Debug\tombgyakorlas.pdb
