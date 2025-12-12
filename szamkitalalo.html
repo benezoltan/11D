@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="szamkitalalo.js" defer></script>
+    <link rel="stylesheet" href="szamkitalalo.css">
+</head>
+
+<body>
+    <div id="kiiras">
+        <h1>Számkitaláló</h1>
+  
+        <h3>Gondoltam egy számra 1 és 100 között</h3>
+        <input type="number" id="tipp" min="1" max="100" value="1" placeholder="Tipp...">
+        <button id="gomb" onclick="szamEllenorzes(document.getElementById('tipp').value)">Tippelés</button>
+        <div id="valasz"></div>
+    </div>
+</body>
+
+</html>
